@@ -27,5 +27,5 @@ The VGG19 model, a deep convolutional neural network trained on ImageNet, is use
 
 "conv4_2") and style (e.g., "conv1_1", "conv2_1", etc.). The content features
 
-OUTPUT:
+OUTPUT:![Image](https://github.com/user-attachments/assets/394c5a82-7212-46e6-aa84-6efee6409873)
 
